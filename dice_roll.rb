@@ -7,5 +7,5 @@
 
 #end
 def roll
-  1 + random(6)
+  1 + rand(6)
 end

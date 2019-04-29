@@ -9,5 +9,5 @@
 def roll
   random = [1,2,3,4,5,6]
   yourRoll =rand.random
-
+  return yourRoll
 end

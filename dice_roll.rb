@@ -8,5 +8,6 @@
 #end
 def roll
   random = [1,2,3,4,5,6]
-  rand.random
+  yourRoll =rand.random
+
 end

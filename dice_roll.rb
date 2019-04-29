@@ -7,7 +7,7 @@
 
 #end
 def roll
-  def random =[1,2,3,4,5,6]
+  random =[1,2,3,4,5,6]
   def yourRoll =(rand.random)
   return yourRoll
 end
